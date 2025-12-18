@@ -1,0 +1,40 @@
+
+
+1-savol) OOP - yak princip yo stili kodnavisii asosii C# ba hisob meravad ki manoyash (Object-Oriented Progranning ) meboshad va yagon objectro visualno ba nazar girifta hususiyathoi ba on muvofikro ba tavri kod bsozem. Naprimer : Odam du hususiyat dorad : 
+1. Hususiyathoi statiki (visualni harakteristikash : nom , nasab , sinu sol i t.d.)
+2. Funcsionali (hestan , raftan , kor kardan , hob raftan i t.d.)
+Ba in usul (taksim kardani harakteristika va kismi funksionalii yagon zadacha) kori moro hangomi kod navistan oson meknad.
+
+
+
+
+2-savol) Class - dar C# va hamchunin dar digar zabonhoi barnomasozi , rangi yagon biblioteka yo metod (ili funksiya) ba hisob merad ki dar on metodoi ba jagon object (vobasta az zadacha)
+muvofik buda sohta meshavad. Bartarii Class az metod yo funksiya dar on ast ki dar Class mo metonem funksiyahoi nomshon yakhela bsozem(no shumorai parametrhoi ki metod kabul mekunad harhela boyad shavad). Dar Class mo metonem vobasta az yagon zadacha harakteristikayu metodoi lozimara bsozem va onro otdelno az Class vizov knem , inroh kati kodi mo hushrutar va tozatar meshavad. Farkiyati object az Class hamin ast ki Class hamai funksionali ki object boyad kunad , darbar megirad va onject boshad rangi peremenniho ki baroi katishon yagon operatsiya (vobasta az Class) guzaronidan darkor ast lozim meboshad.
+Kutoh karda guem : Class rangi biblioteka yo guruhi metodo va shabloni projec meboshad , object boshad rangi peremenniho ki katishon yagon operatsiya (kati metodoi Class) guzaronida meshavad.
+
+
+
+
+3-savol) Pole (Fields) - v osnovnom daruni Classda vakti mo shablon yo harakteristikai projectmona mesozem ( hamun peremennihoi ki mesozemu dalneyshi katishon kor mekned Class-da ) , uho nomshon pole megan , ki manosh yak joye hastay ki dar on mo yagon informatsiya sohranit meknem vobasta az tipash.
+Svoystvo (Properties) - yak sposobi ki mo bo in usul metonem "private Fields"-mona vizvat knem (kati yordamchihoi "set" "get"). Bo hastay , AutoPropertis ki u hudsh na avtomate znachenira kabul karda return meknad (neki pod kapotom hamu operatsiya ki hudmon ruchnoy mesozem hast).
+
+
+
+
+
+4-savol) Konstructor - elemente az guruhi Class meboshad ki baroi sohtani structurai proekti mo vobasta az parametrhoi ki on kabul karda metonad istifoda meshavad.
+
+
+6-savol) modifikator dostupa - baroi kontrol kardani peremennihoi ki mo dar Class mesozem istifoda meshavad.
+Asosan az "private" , "public" va "protected" istifoda karda meshavad.
+
+5-savol) Baroi idora kardani tarafi ki boyad istifodabaranda va tarafi sohtori kod darkoray , baroi bezopastnosti informatsiya istifoda meshava.
+
+
+
+
+
+
+
+
+
