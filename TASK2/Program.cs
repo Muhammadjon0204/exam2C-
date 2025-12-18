@@ -14,7 +14,7 @@ post.Like();
 post.Like();
 post.Like();
 
-
+List<string> messeges=new List<string>();
 string com1="Good";
 string com2="Vpered!!";
 post.AddComment(com1);
@@ -22,3 +22,7 @@ post.AddComment(com2);
 post.Publish();
 
 System.Console.WriteLine($"{post1} - {desc1} - Number of Likes: {post.LIKECOUNT}");
+foreach (var item in messeges)
+{
+    
+}
